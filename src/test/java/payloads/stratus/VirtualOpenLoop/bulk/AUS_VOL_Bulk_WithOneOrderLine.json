@@ -1,0 +1,12 @@
+{
+  "clientProgramNumber": "95005354",
+  "paymentType": "DRAW_DOWN",
+  "financialAccountId": "54789",
+  "returnCardNumberAndPIN": "true",
+  "orderDetails": [
+    {
+      "quantity": "2",
+      "amount": "25"
+    }
+  ]
+}

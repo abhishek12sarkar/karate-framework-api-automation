@@ -1,0 +1,24 @@
+{
+  "clientProgramNumber": "95004828",
+  "paymentType": "ACH_DEBIT",
+  "financialAccountId": "50254",
+  "returnCardNumberAndPIN": "true",
+  "orderDetails": [
+    {
+      "quantity": "2",
+      "amount": "25"
+    },
+    {
+      "quantity": "3",
+      "amount": "50"
+    },
+    {
+      "quantity": "4",
+      "amount": "75"
+    },
+    {
+      "quantity": "5",
+      "amount": "100"
+    }
+  ]
+}

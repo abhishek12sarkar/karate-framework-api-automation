@@ -1,0 +1,10 @@
+{
+  "clientProgramNumber": "95000930",
+  "paymentType": "ACH_DEBIT",
+  "orderDetails": [
+    {
+      "quantity": "1",
+      "amount": "25"
+    }
+  ]
+}

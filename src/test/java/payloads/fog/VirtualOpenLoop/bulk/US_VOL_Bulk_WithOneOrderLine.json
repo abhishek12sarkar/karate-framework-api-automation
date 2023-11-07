@@ -1,0 +1,12 @@
+{
+  "clientProgramNumber": "95015618",
+  "paymentType": "BANK_TRANSFER",
+  "financialAccountId": "30108",
+  "returnCardNumberAndPIN": "true",
+  "orderDetails": [
+    {
+      "quantity": "2",
+      "amount": "25"
+    }
+  ]
+}

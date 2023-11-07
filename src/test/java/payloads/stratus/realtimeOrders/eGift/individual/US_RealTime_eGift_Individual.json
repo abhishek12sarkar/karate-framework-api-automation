@@ -1,0 +1,47 @@
+{
+  "clientProgramNumber": "95004859",
+  "paymentType": "DRAW_DOWN",
+  "poNumber": "2345",
+  "returnCardNumberAndPIN": "false",
+  "billingAddress": {
+    "firstName": "Crystal",
+    "middleInitial": "L",
+    "lastName": "Scordias",
+    "line1": "699 Buckley Manor Dr",
+    "line2": "Apt 23",
+    "city": "Fenton",
+    "region": "MO",
+    "postalCode": "63125",
+    "country": "USA",
+    "email": "deepika.n@bhnetwork.com"
+  },
+  "emailContent": {
+    "senderName": "Deepika",
+    "senderEmail": "Egiftdelivery@hawkmarketplace.com",
+    "subject": "95011951 - Rest api without email salutation ",
+    "emailMessage": "Dear {first name}, Thank you for participating in our program! Please enjoy your reward as a token of our appreciation",
+    "unsubscribeData": {
+      "companyName": "Black Hawk Network",
+      "addressLine1": "King street",
+      "addressCity": "Coppell",
+      "addressState": "TX",
+      "addressZip": "75019",
+      "addressCountry": "USA",
+      "methodType": "EMAIL",
+      "value": "unsubscribehere@example.org"
+    }
+  },
+  "orderDetails": [
+    {
+      "recipient": {
+        "id": "1212314",
+        "firstName": "Emily",
+        "lastName": "Campbell",
+        "email": "deepika.n@bhnetwork.com"
+      },
+      "amount": "25",
+      "contentProvider": "AirbnbFRC_USD_en_eGift",
+      "description": "This is a reward for Mickey Mouse!"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "clientProgramNumber": "95000930",
+  "paymentType": "ACH_DEBIT",
+  "emailContent": {
+    "senderName": "API Order",
+    "senderEmail": "CardServices@hawkmarketplace.com",
+    "subject": "API Order - Thanks for Purchasing",
+    "emailMessage": "API Order submitted successfully.",
+    "emailClosingName": "BHN API Closing Name",
+    "unsubscribeData": {
+      "companyName": "Black Hawk Network",
+      "addressLine1": "King street",
+      "addressCity": "Coppell",
+      "addressState": "TX",
+      "addressZip": "75019",
+      "addressCountry": "USA",
+      "methodType": "EMAIL",
+      "value": "unsubscribehere@example.org"
+    }
+  },
+  "orderDetails": [
+    {
+      "recipient": {
+        "id": "RID24042423",
+        "firstName": "Mickey",
+        "lastName": "Mouse",
+        "email": "abhishek.sarkar@bhnetwork.com"
+      },
+      "amount": "25"
+    }
+  ]
+}

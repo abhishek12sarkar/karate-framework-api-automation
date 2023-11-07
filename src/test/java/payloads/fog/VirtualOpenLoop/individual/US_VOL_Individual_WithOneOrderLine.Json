@@ -1,0 +1,33 @@
+{
+  "clientProgramNumber": "95015618",
+  "paymentType": "BANK_TRANSFER",
+  "financialAccountId": "30108",
+  "emailContent": {
+    "senderName": "API Order",
+    "senderEmail": "CardServices@hawkmarketplace.com",
+    "subject": "API Order - Thanks for Purchasing",
+    "emailMessage": "API Order submitted successfully.",
+    "emailClosingName": "BHN API Closing Name",
+    "unsubscribeData": {
+      "companyName": "BHN API",
+      "addressLine1": "221B, API Street",
+      "addressCity": "Pinebluff",
+      "addressState": "North Carolina",
+      "addressZip": "28373",
+      "addressCountry": "United States",
+      "methodType": "NONE",
+      "value": "api@bhnetwork.com"
+    }
+  },
+  "orderDetails": [
+    {
+      "recipient": {
+        "id": "RID2404231",
+        "firstName": "API FirstName",
+        "lastName": "API LastName",
+        "email": "abhishek.sarkar@bhnetwork.com"
+      },
+      "amount": "25"
+    }
+  ]
+}
